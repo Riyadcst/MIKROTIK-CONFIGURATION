@@ -2,6 +2,8 @@
 এই প্রজেক্টটি GNS3 প্ল্যাটফর্মে সম্পূর্ণ Cisco ডিভাইস (Router ও Layer 2 Switch) ব্যবহার করে একটি সুরক্ষিত এবং দক্ষতার সাথে পরিচালিত এন্টারপ্রাইজ নেটওয়ার্কের ডিজাইন প্রদর্শন করে। এখানে Static Routing এবং Advanced Device Security মেকানিজমগুলো বাস্তবায়ন করা হয়েছে।
 
 Cisco Static Routing, MAC Binding, SSH টপোলজি ডায়াগ্রাম
+<img width="1292" height="644" alt="Cisco-Static-MACBinding-ssh-gns3" src="https://github.com/user-attachments/assets/b88e0bdc-8cfb-4a0e-b8cf-8944a090d175" />
+
 
 প্রজেক্টের উদ্দেশ্য
 এই ল্যাবের মূল উদ্দেশ্য হলো আধুনিক নেটওয়ার্কিং কনফিগারেশন ব্যবহার করে নিম্নলিখিত বিষয়গুলো নিশ্চিত করা:
